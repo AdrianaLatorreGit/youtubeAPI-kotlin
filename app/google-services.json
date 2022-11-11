@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504388548806",
+    "project_id": "net-api-a6c1b",
+    "storage_bucket": "net-api-a6c1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504388548806:android:f6b34e7795fb1130633fc7",
+        "android_client_info": {
+          "package_name": "com.adrianalatorre.youtubeapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504388548806-6kk32e0g6gdg8ei74qc402qu8dtlfg4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsXMd6Rj6y3s-YjPpu5AOx3Kxy91FClc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504388548806-6kk32e0g6gdg8ei74qc402qu8dtlfg4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
